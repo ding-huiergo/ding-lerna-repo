@@ -10,5 +10,9 @@
   "scripts": {
     "example": "lerna exec --scope example-web -- yarn start",
     "ui":"lerna exec --scope ui-web -- yarn start"
+},
+"repository": {
+  "type": "git",
+  "url": "git@github.com:huiergo/ding-lerna-repo.git"
 }
 }
